@@ -58,10 +58,10 @@ public class Operadores {
         boolean condicao2 = false;
         if (condicao1 && condicao2){
             System.out.println("Duas condições verdadeiras");
-        }else{
+        } else {
             if (condicao1 || condicao2){
                 System.out.println("Pelo menos uma condição é verdadeira");
-            }else{
+            } else {
                 System.out.println("As duas codições são falsas");    
             }   
         }
